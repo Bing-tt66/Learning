@@ -5,6 +5,4 @@
 ## 3.Chern数和Berry曲率的计算
 ## 4.3-regula
 # 详见Note1
-=======
-# Chern number and berry curvature
->>>>>>> 28ae60794bb95d28e10b808a35301517d09bc2f5
+
